@@ -67,4 +67,4 @@ Open your browser and navigate to `http://localhost:5173` to see the application
 ## 📬 Contact
 
 For questions or feedback, please reach out via [GitHub Issues](https://github.com/youseftrek/react-food-delivery/issues).
-or contact via email at [youseftarek.business@gmail.com](mailto:your-email@gmail.com)
+or contact via email at [youseftarek.business@gmail.com](mailto:youseftarek.business@gmail.com)
