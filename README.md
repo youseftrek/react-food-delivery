@@ -1,7 +1,3 @@
-Here's the `README.md` file with emojis added to all features:
-
----
-
 # 🍕 Food Delivery App
 
 This project is a modern food delivery application that allows users to order pizzas from a menu. It aims to provide a seamless and user-friendly experience for ordering food without requiring user accounts or logins.
